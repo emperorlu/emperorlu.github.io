@@ -30,9 +30,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * [My hobbies](../_posts/2021-02-01-兴趣爱好.md) -->
 ## Education
 
-* Ph.D. degree in Storage Systems and Techniques, Wuhan National Laboratory for Optoelectronics(WNLO), Huazhong University of Science and Technology, China, 2018-2023
+* Ph.D. degree in Computer System Architecture, Wuhan National Laboratory for Optoelectronics(WNLO), Huazhong University of Science and Technology, China, 2018-2023
 
-* B.E degree in Computer Science and Technology, Huazhong University of Science and Technology, China, 2014-2018
+* B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China, 2014-2018
 
 ## Publications
 
