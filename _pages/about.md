@@ -38,9 +38,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 <!-- * **Kai Lu**, et al. IO Optimization for RL/NLP framework (to be published) [RL](https://github.com/emperorlu/DI-store), [NLP](https://github.com/emperorlu/RETRO-pytorch) -->
 
-* Xinhao Min, Kai Lu*, et al. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A). [Code](https://github.com/minxinhao/SepHash).
+* Xinhao Min, **Kai Lu***, et al. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A). [Code](https://github.com/minxinhao/SepHash).
 
-* Zhonghua Wang, Yixing Guo, Kai Lu*, et al. Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL (TACO 2023, CCF A). [Code](https://github.com/PDS-Lab/Rcmp).
+* Zhonghua Wang, Yixing Guo, **Kai Lu***, et al. Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL (TACO 2023, CCF A). [Code](https://github.com/PDS-Lab/Rcmp).
 
 * Liang Wang, **Kai Lu**(co-primary author), et al. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A) *Code coming soon*
 
