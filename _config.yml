@@ -10,7 +10,7 @@
 title                    : "Emperorlu's Site"
 title_separator          : "-"
 name                     : &name "Kai Lu"
-description              : &description "Ph.D. Candidate at HUST"
+description              : &description "Postdoc at HUST"
 url                      : https://emperorlu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emperorlu/emperorlu.github.io"
