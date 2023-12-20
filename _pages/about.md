@@ -57,9 +57,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 Non-primary author:
 
-* Zhonghua Wang, ..., Kai Lu, et al. WIPE: a Write-Optimized Learned Index for Persistent Memory (TACO 2023, CCF A). [Code](https://github.com/olemon111/WIP).
+* Zhonghua Wang, ..., Kai Lu, et al. [WIPE: a Write-Optimized Learned Index for Persistent Memory](https://dl.acm.org/doi/10.1145/3634915) (TACO 2023, CCF A). [Code](https://github.com/olemon111/WIP).
 
-* Chen Ding, ..., Kai Lu, et al. DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units (ICPP 2023, CCF B).
+* Chen Ding, ..., Kai Lu, et al. [DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units](https://dl.acm.org/doi/fullHtml/10.1145/3605573.3605633) (ICPP 2023, CCF B).
 
 * Wei Tao, ..., Kai Lu, et al. Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers. (DATE 2023, CCFB).
 
