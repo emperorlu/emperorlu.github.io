@@ -39,30 +39,29 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 <!-- * **Kai Lu**, et al. IO Optimization for RL/NLP framework (to be published) [RL](https://github.com/emperorlu/DI-store), [NLP](https://github.com/emperorlu/RETRO-pytorch) -->
 
-* Xinhao Min, **Kai Lu***, et al. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
+* Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
 
-* Zhonghua Wang, Yixing Guo, **Kai Lu***, et al. Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL (TACO 2023, CCF A) [Code](https://github.com/PDS-Lab/Rcmp)
+* Zhonghua Wang, Yixing Guo, **Kai Lu***, Jiguang Wan, Daohui Wang, Ting Yao, Huatao Wu. [Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL](https://dl.acm.org/doi/10.1145/3634916) (TACO 2023, CCF A) [Code](https://github.com/PDS-Lab/Rcmp)
 
-* Liang Wang, **Kai Lu**(co-primary author), et al. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A) *Code coming soon*
+* Liang Wang, **Kai Lu**(co-primary author), Nan Zhang, Xiaoyang Qu, Jianzong Wang, Jiguang Wan, Guokuan Li, Jing Xiao. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A) *Code coming soon*
 
-* **Kai Lu**, et al. [ADSTS: Automatic Distributed Storage Tuning System Using Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3545008.3545012) (ICPP 2022, CCF B) [Code coming soon](https://github.com/emperorlu/Auto-Tuning-Ceph)
+* **Kai Lu**, Guokuan Li, Jiguang Wan, Ruixiang Ma, Wei Zhao. [ADSTS: Automatic Distributed Storage Tuning System Using Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3545008.3545012) (ICPP 2022, CCF B) [Code coming soon](https://github.com/emperorlu/Auto-Tuning-Ceph)
 
-* **Kai Lu**, et al. [RLRP: High-Efficient Data Placement with Reinforcement Learning for Modern Distributed Storage Systems](https://ieeexplore.ieee.org/document/9820675/) (IPDPS 2022, CCF B) [Code](https://github.com/emperorlu/Replica-Placement)
+* **Kai Lu**, Nannan Zhao, Jiguang Wan, Changhong Fei, Wei Zhao, Tongliang Deng. [RLRP: High-Efficient Data Placement with Reinforcement Learning for Modern Distributed Storage Systems](https://ieeexplore.ieee.org/document/9820675/) (IPDPS 2022, CCF B) [Code](https://github.com/emperorlu/Replica-Placement)
 
-* **Kai Lu**, et al. [TridentKV: A Read-Optimized LSM-tree Based KV Store via Adaptive Indexing and Space-Efficient Partitioning](https://ieeexplore.ieee.org/document/9563237) (TPDS, CCF A) [Code](https://github.com/emperorlu/Learned-Rocksdb)
+* **Kai Lu**, Nannan Zhao, Jiguang Wan, Changhong Fei, Wei Zhao, and Tongliang Deng. [TridentKV: A Read-Optimized LSM-tree Based KV Store via Adaptive Indexing and Space-Efficient Partitioning](https://ieeexplore.ieee.org/document/9563237) (TPDS, CCF A) [Code](https://github.com/emperorlu/Learned-Rocksdb)
 
-* Daping Li, **Kai Lu**, Jiguang Wan, et al. [Disperse Access Considered Energy Inefficiency in Intel Optane DC Persistent Memory Servers](https://ieeexplore.ieee.org/document/9355739) (ICDCS 2020, CCF B) [Code](https://github.com/emperorlu/Sprint-AEP)
+* Zhonghua Wang, Chen Ding, Fengguang Song, **Kai Lu**, Jiguang Wan, Zhihu Tan, Changsheng Xie and Guokuan Li. [WIPE: a Write-Optimized Learned Index for Persistent Memory](https://dl.acm.org/doi/10.1145/3634915) (TACO 2023, CCF A) [Code](https://github.com/olemon111/WIP)
+
+* Chen Ding, Jian Zhou, Jiguang Wan, Yiqin Xiong, Sicen Li, Shuning Chen, Hanyang Liu, Liu Tang, Ling Zhan, **Kai Lu**, Peng Xu. [DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units](https://dl.acm.org/doi/fullHtml/10.1145/3605573.3605633) (ICPP 2023, CCF B)
+
+* Wei Tao, Shenglin He, **Kai Lu**, Xiaoyang Qu, Guokuan Li, Jiguang Wan, Jianzong Wang, Jing Xiao. Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers (DATE 2023, CCFB)
+
+* Daping Li, Jiguang Wan, Jun Wang, Jian Zhou, **Kai Lu**, Peng Xu, Fei Wu and Changsheng Xie. [Disperse Access Considered Energy Inefficiency in Intel Optane DC Persistent Memory Servers](https://ieeexplore.ieee.org/document/9355739) (ICDCS 2020, CCF B) [Code](https://github.com/emperorlu/Sprint-AEP)
 
 * Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492) (IEEE Access 2020)
 
 
-Non-primary author:
-
-* Zhonghua Wang, ..., Kai Lu, et al. [WIPE: a Write-Optimized Learned Index for Persistent Memory](https://dl.acm.org/doi/10.1145/3634915) (TACO 2023, CCF A) [Code](https://github.com/olemon111/WIP)
-
-* Chen Ding, ..., Kai Lu, et al. [DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units](https://dl.acm.org/doi/fullHtml/10.1145/3605573.3605633) (ICPP 2023, CCF B)
-
-* Wei Tao, ..., Kai Lu, et al. Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers (DATE 2023, CCFB)
 
 <!-- 
 ## In progress
