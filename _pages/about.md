@@ -41,11 +41,13 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
 
+* Yuanhui Zhou, Jian Zhou, **Kai Lu**, Ling Zhan, Peng Xu, Peng Wu, Shuning Chen, Xian Liu, Jiguang Wan. [A contract-aware and cost-effective LSM Store for Cloud Storage with Low Latency Spikes](https://dl.acm.org/doi/10.1145/3643851) (TOS 2024, CCF A)
+
 * Zhonghua Wang, Yixing Guo, **Kai Lu***, Jiguang Wan, Daohui Wang, Ting Yao, Huatao Wu. [Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL](https://dl.acm.org/doi/10.1145/3634916) (TACO 2023, CCF A) [Code](https://github.com/PDS-Lab/Rcmp)
 
-* Liang Wang, **Kai Lu**(co-primary author), Nan Zhang, Xiaoyang Qu, Jianzong Wang, Jiguang Wan, Guokuan Li, Jing Xiao. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A) *Code coming soon*
+* Liang Wang, **Kai Lu**(co-primary author), Nan Zhang, Xiaoyang Qu, Jianzong Wang, Jiguang Wan, Guokuan Li, Jing Xiao. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A)
 
-* **Kai Lu**, Guokuan Li, Jiguang Wan, Ruixiang Ma, Wei Zhao. [ADSTS: Automatic Distributed Storage Tuning System Using Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3545008.3545012) (ICPP 2022, CCF B) [Code coming soon](https://github.com/emperorlu/Auto-Tuning-Ceph)
+* **Kai Lu**, Guokuan Li, Jiguang Wan, Ruixiang Ma, Wei Zhao. [ADSTS: Automatic Distributed Storage Tuning System Using Deep Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3545008.3545012) (ICPP 2022, CCF B)
 
 * **Kai Lu**, Nannan Zhao, Jiguang Wan, Changhong Fei, Wei Zhao, Tongliang Deng. [RLRP: High-Efficient Data Placement with Reinforcement Learning for Modern Distributed Storage Systems](https://ieeexplore.ieee.org/document/9820675/) (IPDPS 2022, CCF B) [Code](https://github.com/emperorlu/Replica-Placement)
 
