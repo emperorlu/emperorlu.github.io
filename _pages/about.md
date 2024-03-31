@@ -39,7 +39,13 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 <!-- * **Kai Lu**, et al. IO Optimization for RL/NLP framework (to be published) [RL](https://github.com/emperorlu/DI-store), [NLP](https://github.com/emperorlu/RETRO-pytorch) -->
 
+
+
+* Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. NaPI: A High-Performance NUMA-Aware Persistent Index on Hybrid Memory (TC 2024, CCF A)
+  
 * Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
+
+* Yiwen Zhang, Guokuan Li, **Kai Lu**, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. PhatKV: Towards an Efficient Metadata Engine for KV-based File Systems on Modern SSD (MSST 2024, CCF B)
 
 * Yuanhui Zhou, Jian Zhou, **Kai Lu**, Ling Zhan, Peng Xu, Peng Wu, Shuning Chen, Xian Liu, Jiguang Wan. [A contract-aware and cost-effective LSM Store for Cloud Storage with Low Latency Spikes](https://dl.acm.org/doi/10.1145/3643851) (TOS 2024, CCF A)
 
