@@ -43,7 +43,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. NaPI: A High-Performance NUMA-Aware Persistent Index on Hybrid Memory (TC 2024, CCF A)
   
-* Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
+* Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. [SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure](https://www.vldb.org/pvldb/vol17/p1091-lu.pdf) (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
 
 * Yiwen Zhang, Guokuan Li, **Kai Lu**, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. PhatKV: Towards an Efficient Metadata Engine for KV-based File Systems on Modern SSD (MSST 2024, CCF B)
 
