@@ -8,36 +8,6 @@ tags:
 > 青山无数，归去又还秋暮，算恁地光阴，能来得几度 —— 老俞
 
 
-## 上半年论文计划 （2月~10月）
-
-- 重点论文：面向强化学习/大模型的存储优化
-  
-  - 目标会议：**FAST (7月-9月)**
-  
-- DAC 论文转投 **ICPP‘22 (4月9号)，ASE’22 (4月29日)**
-  
-- 公布了中奖号码，223 / 大约1418 = 15.72
-  
-  - 添加：背景+相关工作（1页）+实验（3页）
-  
-- IPDPS论文转投期刊 **TPDS/TOC**
-
-  - 五月开会
-
-- KV Scan：暂缓
-
-  
-
-## 面向强化学习的存储优化
-
-- XX:  Efficient XX Storage Service for Reinforcement Learning Applications 或者Decision AI Applications
-
-- 目标：**FAST** (7月-9月)，~~SC (3月25日)~~，HPCA(7月)，ASPLOS(8月)，ISCA(11月)；~~ATC(1月)，OSDI (1月)，SOSP(奇数年)， DAC(12月)， MICRO(不相干)~~
-- 当前困境：项目模式很难搞论文，和他们合作有点过于墨迹
-- 当前进展：调研问题，测试瓶颈，寻找创新
-  - 我们有环境有机器，用他们的平台直接自己测试，寻找瓶颈
-- 分布式强化学习的发展和优化，以及存储优化思考
-
 ### Abstract
 
 - 加速强化学习的统一对象存储服务 Di-store:  <u>D</u>ecision <u>I</u>ntelligence <u>Store</u>
