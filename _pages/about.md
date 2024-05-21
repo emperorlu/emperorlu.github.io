@@ -16,19 +16,13 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 ## Interests and Projects
 
-* Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash)
+* Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
 * Key-value Store: [Rocksdb](https://github.com/emperorlu/rocksdb), [TiKV](https://github.com/emperorlu/tikv), [Leveldb](https://github.com/emperorlu/leveldb), [NStore](https://github.com/PDS-Lab/NStore)
 * Distributed Storage: [Ceph](https://github.com/emperorlu/ceph)
 * Non-volatile Memory(NVM): [Sprint-AEP](https://github.com/emperorlu/Sprint-AEP), [Geardb](https://github.com/emperorlu/GearDB), [WIPE](https://github.com/olemon111/WIPE)
 * AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
 * System for AI: [DI-store](https://github.com/emperorlu/DI-store), [FlashNeuron](https://github.com/emperorlu/FlashNeuron), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [Retro](https://github.com/emperorlu/RETRO-pytorch)
 
-<!--
-* System optimization with RL: [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
- * [My projects](../_posts/Projects/2021-01-01-project.md) -->
-
-<!-- 
-* [My hobbies](../_posts/2021-02-01-兴趣爱好.md) -->
 ## Education
 
 * Ph.D. degree in Computer System Architecture, Wuhan National Laboratory for Optoelectronics(WNLO), Huazhong University of Science and Technology, China, 2018-2023
@@ -41,7 +35,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 
 
-*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory. ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A)
+*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory. ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
   
 * Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. NaPI: A High-Performance NUMA-Aware Persistent Index on Hybrid Memory (TC 2024, CCF A)
   
@@ -74,13 +68,6 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492) (IEEE Access 2020)
 
 
-
-<!-- 
-## In progress
-
-* **Kai Lu**, et al. Learning Data Placement with RLDP in Modern Distributed Storage Systems
-
-* Others: point-cloud, HPC file system...-->
 
 ## Contact
 
