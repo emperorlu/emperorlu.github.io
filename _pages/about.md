@@ -32,7 +32,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 ## Publications
 
 
-*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/pdf/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
+*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
   
 * Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory (TC 2024, CCF A) [Code](https://github.com/PDS-Lab/NStore)
   
