@@ -38,7 +38,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
   
 * Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. [SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure](https://www.vldb.org/pvldb/vol17/p1091-lu.pdf) (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
 
-* Yiwen Zhang, Guokuan Li\*, **Kai Lu**\*, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. PhatKV: Towards an Efficient Metadata Engine for KV-based File Systems on Modern SSD (MSST 2024, CCF B)
+* Yiwen Zhang, Guokuan Li\*, **Kai Lu**\*, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [PhatKV: Towards an Efficient Metadata Engine for KV-based File Systems on Modern SSD](https://www.msstconference.org/MSST-history/2024/Papers/msst24-9.3.pdf) (MSST 2024, CCF B)
 
 * Chen Ding, Jian Zhou, **Kai Lu**, Sicen Li, Yiqin Xiong, Jiguang Wan, Ling Zhan. [D2Comp: Efficient Offload of LSM-tree Compaction with Data Processing Units on Disaggregated Storage](https://dl.acm.org/doi/abs/10.1145/3656584) (TACO 2024, CCF A)
 
