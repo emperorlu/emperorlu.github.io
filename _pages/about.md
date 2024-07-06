@@ -25,7 +25,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 ## Education
 
-* Ph.D. degree in Computer System Architecture, Wuhan National Laboratory for Optoelectronics(WNLO), Huazhong University of Science and Technology, China, 2018-2023
+* Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China, 2018-2023
 
 * B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China, 2014-2018
 
@@ -58,7 +58,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Chen Ding, Jian Zhou, Jiguang Wan, Yiqin Xiong, Sicen Li, Shuning Chen, Hanyang Liu, Liu Tang, Ling Zhan, **Kai Lu**, Peng Xu. [DComp: Efficient Offload of LSM-tree Compaction with Data Processing Units](https://dl.acm.org/doi/fullHtml/10.1145/3605573.3605633) (ICPP 2023, CCF B)
 
-* Wei Tao, Shenglin He, **Kai Lu**, Xiaoyang Qu, Guokuan Li, Jiguang Wan, Jianzong Wang, Jing Xiao. Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers (DATE 2023, CCF B)
+* Wei Tao, Shenglin He, **Kai Lu**, Xiaoyang Qu, Guokuan Li, Jiguang Wan, Jianzong Wang, Jing Xiao. [Value-Driven Mixed-Precision Quantization for Patch-Based Inference on Microcontrollers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10546541) (DATE 2023, CCF B)
 
 * Daping Li, Jiguang Wan, Jun Wang, Jian Zhou, **Kai Lu**, Peng Xu, Fei Wu and Changsheng Xie. [Disperse Access Considered Energy Inefficiency in Intel Optane DC Persistent Memory Servers](https://ieeexplore.ieee.org/document/9355739) (ICDCS 2020, CCF B) [Code](https://github.com/emperorlu/Sprint-AEP)
 
