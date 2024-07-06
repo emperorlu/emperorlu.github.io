@@ -14,6 +14,14 @@ This is Kai Lu\'s personal website, including personal introduction, my projects
 
 I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. My major is storage systems and techniques.
 
+
+## Education
+
+* Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China, 2018-2023
+
+* B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China, 2014-2018
+
+
 ## Interests and Projects
 
 * Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
@@ -23,11 +31,6 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
 * System for AI: [DI-store](https://github.com/emperorlu/DI-store), [FlashNeuron](https://github.com/emperorlu/FlashNeuron), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [Retro](https://github.com/emperorlu/RETRO-pytorch)
 
-## Education
-
-* Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China, 2018-2023
-
-* B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China, 2014-2018
 
 ## Publications
 
