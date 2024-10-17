@@ -66,7 +66,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Daping Li, Jiguang Wan, Jun Wang, Jian Zhou, **Kai Lu**, Peng Xu, Fei Wu and Changsheng Xie. [Disperse Access Considered Energy Inefficiency in Intel Optane DC Persistent Memory Servers](https://ieeexplore.ieee.org/document/9355739) (ICDCS 2020, CCF B) [Code](https://github.com/emperorlu/Sprint-AEP)
 
-* Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492) (IEEE Access 2020)
+* Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492)
 
 
 
