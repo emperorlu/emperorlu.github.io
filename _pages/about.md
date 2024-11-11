@@ -68,6 +68,8 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492)
 
+*  Ling Zhan, **Kai Lu**\*, Yiqin Xiong, Jiguang Wan, Zixuan Yang. TrickleKV: A High-Performance Key-Value Store on Disaggregated Storage with Low Network Traffic
+
 
 
 ## Contact
