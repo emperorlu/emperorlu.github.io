@@ -34,7 +34,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 ## Publications
 
-*  Yixiao Chen, Haomai Yang, **Kai Lu***, Wenlve Huang, Jibin Wang, Jiguang Wan, Jian Zhou, Fei Wu, Changsheng Xie. PeakFS: An Ultra-high Performance Parallel File System via Computing-Network-Storage Co-optimization for HPC Applications. (TPDS 2024, CCF A)
+*  Yixiao Chen, Haomai Yang, **Kai Lu***, Wenlve Huang, Jibin Wang, Jiguang Wan, Jian Zhou, Fei Wu, Changsheng Xie. [PeakFS: An Ultra-high Performance Parallel File System via Computing-Network-Storage Co-optimization for HPC Applications](https://ieeexplore.ieee.org/document/10735121). (TPDS 2024, CCF A)
 
 *  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
   
@@ -68,7 +68,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 * Ling Zhan, **Kai Lu**, Zhilong Cheng and Jiguang Wan. [RangeKV: An Efficient Key-Value Store Based on Hybrid DRAM-NVM-SSD Storage Structure](https://ieeexplore.ieee.org/document/9170492)
 
-*  Ling Zhan, **Kai Lu**\*, Yiqin Xiong, Jiguang Wan and Zixuan Yang. TrickleKV: A High-Performance Key-Value Store on Disaggregated Storage with Low Network Traffic
+*  Ling Zhan, **Kai Lu**\*, Yiqin Xiong, Jiguang Wan and Zixuan Yang. [TrickleKV: A High-Performance Key-Value Store on Disaggregated Storage with Low Network Traffic](https://ieeexplore.ieee.org/document/10752495)
 
 
 
