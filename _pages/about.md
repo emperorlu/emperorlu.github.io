@@ -38,7 +38,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 *  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
   
-* Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory (TC 2024, CCF A) [Code](https://github.com/PDS-Lab/NStore)
+* Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. [NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory](https://www.computer.org/csdl/journal/tc/5555/01/10761975/223Ey6jTUwE) (TC 2024, CCF A) [Code](https://github.com/PDS-Lab/NStore)
   
 * Xinhao Min, **Kai Lu***, Pengyu Liu, Jiguang Wan, Changsheng Xie, Daohui Wang, Ting Yao, Huatao Wu. [SepHash: A Write-Optimized Hash Index on Disaggregated Memory via Separate Segment Structure](https://www.vldb.org/pvldb/vol17/p1091-lu.pdf) (VLDB 2024, CCF A) [Code](https://github.com/minxinhao/SepHash)
 
