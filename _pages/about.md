@@ -34,7 +34,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 ## Publications
 
-*  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (Sigmod 2025, CCF A)
+*  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
 
 *  Bin Zhang, Jinggang Chen, Xiaoyang Qu, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang\*. RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations (AAAI 2025, CCF A)
 
