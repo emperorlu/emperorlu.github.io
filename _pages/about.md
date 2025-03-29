@@ -36,7 +36,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
 
-*  Wei Tao, Xiaoyang Qu, **Kai Lu**, Jiguang Wan, Guokuan Li, Jianzong Wang. MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs (ICME 2025, CCF B)
+*  Wei Tao, Xiaoyang Qu\*, **Kai Lu**\*, Jiguang Wan, Guokuan Li, Jianzong Wang. MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs (ICME 2025, CCF B)
 
 *  Bin Zhang, Jinggang Chen, Xiaoyang Qu, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang\*. RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations (AAAI 2025, CCF A)
 
