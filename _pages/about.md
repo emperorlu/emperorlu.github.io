@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. My current research interests are distributed storage systems, key-value storage and AI storage. 
+I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. Our team, the Parallel Data Storage Lab (PSDL), led by Prof. Jiguang Wan and Prof. Changsheng Xie, has long been devoted to the research of distributed storage systems, key-value storage and AI storage. 
 
 ## Education
 
