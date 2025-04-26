@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Kai Lu\'s personal website, including personal introduction, my projects, blogs and some records of my life. If you have any questions, please let me know.
-
-## About Me
-
-I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. My major is storage systems and techniques.
-
+I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. My current research interests are distributed storage systems, key-value storage and AI storage. 
 
 ## Education
 
@@ -33,6 +28,8 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 
 ## Publications
+
+* Chen Ding, Sicen Li, **Kai Lu**\*, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing. (ATC 2025, CCF A)
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
 
