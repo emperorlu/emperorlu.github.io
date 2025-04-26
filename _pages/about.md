@@ -29,6 +29,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 ## Publications
 
+### 2025
 * Chen Ding, Sicen Li, **Kai Lu**\*, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing. (ATC 2025, CCF A)
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
@@ -37,8 +38,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 *  Bin Zhang, Jinggang Chen, Xiaoyang Qu, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang\*. RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations (AAAI 2025, CCF A)
 
-*  Yixiao Chen, Haomai Yang, **Kai Lu***, Wenlve Huang, Jibin Wang, Jiguang Wan, Jian Zhou, Fei Wu, Changsheng Xie. [PeakFS: An Ultra-high Performance Parallel File System via Computing-Network-Storage Co-optimization for HPC Applications](https://ieeexplore.ieee.org/document/10735121) (TPDS 2024, CCF A) [Code](https://github.com/PDS-Lab/PeakFS-Experiments)
+### 2024
 
+*  Yixiao Chen, Haomai Yang, **Kai Lu***, Wenlve Huang, Jibin Wang, Jiguang Wan, Jian Zhou, Fei Wu, Changsheng Xie. [PeakFS: An Ultra-high Performance Parallel File System via Computing-Network-Storage Co-optimization for HPC Applications](https://ieeexplore.ieee.org/document/10735121) (TPDS 2024, CCF A) [Code](https://github.com/PDS-Lab/PeakFS-Experiments)
 
 *  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF A) [Code](https://github.com/PDS-Lab/scythe)
   
@@ -53,6 +55,8 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * Yuanhui Zhou, Jian Zhou, **Kai Lu**, Ling Zhan, Peng Xu, Peng Wu, Shuning Chen, Xian Liu, Jiguang Wan. [A contract-aware and cost-effective LSM Store for Cloud Storage with Low Latency Spikes](https://dl.acm.org/doi/10.1145/3643851) (TOS 2024, CCF A)
 
 * Zhonghua Wang, Yixing Guo, **Kai Lu***, Jiguang Wan, Daohui Wang, Ting Yao, Huatao Wu. [Rcmp: Reconstructing RDMA-based Memory Disaggregation via CXL](https://dl.acm.org/doi/10.1145/3634916) (TACO 2023, CCF A) [Code](https://github.com/PDS-Lab/Rcmp)
+
+### 2023 and earlier
 
 * Liang Wang, **Kai Lu**(co-primary author), Nan Zhang, Xiaoyang Qu, Jianzong Wang, Jiguang Wan, Guokuan Li, Jing Xiao. [Shoggoth: Towards Efficient Edge-Cloud Collaborative Real-Time Video Inference via Adaptive Online Learning](https://ieeexplore.ieee.org/abstract/document/10247821/) (DAC 2023, CCF A)
 
