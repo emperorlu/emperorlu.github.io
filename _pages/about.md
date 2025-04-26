@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. Our team, the Parallel Data Storage Lab (PSDL), led by Prof. Jiguang Wan and Prof. Changsheng Xie, has long been devoted to the research of distributed storage systems, key-value storage and AI storage. 
+I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. 
+
+Our team, the Parallel Data Storage Lab (PSDL), led by Prof. Jiguang Wan and Prof. Changsheng Xie, has long been devoted to the research of distributed storage systems, key-value storage and AI storage. 
 
 ## Education
 
@@ -20,11 +22,11 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 ## Interests and Projects
 
 * Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
-* Key-value Store: [Rocksdb](https://github.com/emperorlu/rocksdb), [TiKV](https://github.com/emperorlu/tikv), [Leveldb](https://github.com/emperorlu/leveldb), [NStore](https://github.com/PDS-Lab/NStore)
-* Distributed Storage: [Ceph](https://github.com/emperorlu/ceph)
-* Non-volatile Memory(NVM): [Sprint-AEP](https://github.com/emperorlu/Sprint-AEP), [Geardb](https://github.com/emperorlu/GearDB), [WIPE](https://github.com/olemon111/WIPE)
+* Key-value Store: [ComboTree](https://github.com/PDS-Lab/ComboTree), [NStore](https://github.com/PDS-Lab/NStore),[Calcspar](https://github.com/PDS-Lab/Calcspar)
+* Distributed Storage: [PeakFS](https://github.com/PDS-Lab/PeakFS-Experiments)
+* Non-volatile Memory(NVM): [MatrixKV](https://github.com/PDS-Lab/MatrixKV), [Sprint-AEP](https://github.com/emperorlu/Sprint-AEP), [Geardb](https://github.com/emperorlu/GearDB), [WIPE](https://github.com/olemon111/WIPE)
 * AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
-* System for AI: [DI-store](https://github.com/emperorlu/DI-store), [FlashNeuron](https://github.com/emperorlu/FlashNeuron), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [Retro](https://github.com/emperorlu/RETRO-pytorch)
+* System for AI: [DI-store](https://github.com/emperorlu/DI-store), [Q-Infer](https://github.com/PDS-Lab/Q-Infer)
 
 
 ## Publications
