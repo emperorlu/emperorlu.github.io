@@ -36,9 +36,15 @@ Our team, the Parallel Data Storage Lab (PSDL), led by Prof. Jiguang Wan and Pro
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
 
+*  Wei Tao, Haocheng Lu, Xiaoyang Qu, Bin Zhang, Kai Lu, Jiguang Wan, Jianzong Wang. MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts (ACL 2025 Main, CCF A)
+
+
+*  Junjie Li, Nan Zhang, Xiaoyang Qu, Kai Lu, Guokuan Li, Jiguang Wan, Jianzong Wang. RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models (ACL 2025 Findings, CCF A)
+
+
 *  Wei Tao, Xiaoyang Qu\*, **Kai Lu**\*, Jiguang Wan, Guokuan Li, Jianzong Wang. MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs (ICME 2025, CCF B)
 
-*  Bin Zhang, Jinggang Chen, Xiaoyang Qu, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang\*. RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations (AAAI 2025, CCF A)
+*  Bin Zhang, Jinggang Chen, Xiaoyang Qu\*, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang. RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations (AAAI 2025, CCF A)
 
 ### 2024
 
