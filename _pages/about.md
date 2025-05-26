@@ -35,7 +35,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 # 🏅 Honors and Awards
 * 2022-now, Ranked #1 in the [IO500 10 Node Research](https://io500.org/list/sc24/ten)
-* 2023, the China Postdoctoral Science Foundation
+* 2023, the China Postdoctoral Science Foundation Funded Project
 * 2024, the Hubei Provincial Postdoctoral Innovative Talent Training Project A Grade
 
 
