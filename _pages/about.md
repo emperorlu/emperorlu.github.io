@@ -20,8 +20,8 @@ redirect_from:
 I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology. My major is storage systems and techniques. I\'m in Parallel Data Storage Lab ([PSDL](https://github.com/PDS-Lab)), led by Prof. Jiguang Wan and Prof. Changsheng Xie. PDSL has long been devoted to the research of distributed storage systems, key-value storage and AI storage.
 
 # 📖 Educations
-- *2018.09 - 2023.06*, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
-- *2014.09 - 2018.06*, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
+- 2018.09-2023.06, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
+- 2014.09-2018.06, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
 
 
 # 💬 Interests and Projects
