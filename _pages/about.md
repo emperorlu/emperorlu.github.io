@@ -36,7 +36,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 # 📝 Publications 
 
 ## 2025
-* Chen Ding, Sicen Li, Kai Lu*, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing (USENIX  ATC 2025, CCF-A)
+* Chen Ding, Sicen Li, **Kai Lu***, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing (USENIX  ATC 2025, CCF-A)
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF A)
 
