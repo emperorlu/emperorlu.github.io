@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Lu's Site"
-description              : "Postdoc at HUST. "
+description              : #"Postdoc at HUST."
 repository               : "emperorlu/emperorlu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kai Lu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc at HUST"
+  bio              : "Postdoc at HUST."
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
