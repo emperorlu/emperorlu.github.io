@@ -6,17 +6,17 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Interests and Projects"
+  - title: "Interests"
     url: "/#-interests-and-projects"
     
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
+
+  - title: "Awards"
+    url: "/#-honors-and-awards"
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Contact"
     url: "/#-contact"
