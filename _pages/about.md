@@ -33,8 +33,13 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * System for AI: [DI-store](https://github.com/emperorlu/DI-store), [FlashNeuron](https://github.com/emperorlu/FlashNeuron), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [Retro](https://github.com/emperorlu/RETRO-pytorch)
 
 
-# 📝 Publications 
+# 🎖 Honors and Awards
+* 2022-now, Ranked #1 in the [IO500 10 Node Research](https://io500.org/list/sc24/ten)
+* 2023, the China Postdoctoral Science Foundation
+* 2024, the Hubei Provincial Postdoctoral Innovative Talent Training Project A Grade
 
+
+# 📝 Publications 
 ## 2025
 * Chen Ding, Sicen Li, **Kai Lu***, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing (USENIX  ATC 2025, CCF-A)
 
