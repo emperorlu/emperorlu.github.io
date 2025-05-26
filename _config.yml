@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kai Lu"
-description              : #"Postdoc at HUST."
+description              :  #"Postdoc at HUST."
 repository               : "emperorlu/emperorlu.github.io"
 google_scholar_stats_use_cdn : true
 
