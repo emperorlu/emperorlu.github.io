@@ -19,11 +19,11 @@ redirect_from:
 
 I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science and Technology (HUST). My major is storage systems and techniques. I\'m in Parallel Data Storage Lab ([PDSL](https://github.com/PDS-Lab)) led by Prof. Jiguang Wan and Prof. Changsheng Xie. PDSL has long been devoted to the research of distributed storage systems, key-value storage and AI storage.
 
-# 📖 Educations
+# 🎓 Educations
 - 2018.09-2023.06, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
 - 2014.09-2018.06, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
 
-# 💬 Interests and Projects
+# 💻 Interests and Projects
 * Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
 * Key-value Store: [Rocksdb](https://github.com/emperorlu/rocksdb), [TiKV](https://github.com/emperorlu/tikv), [Leveldb](https://github.com/emperorlu/leveldb), [NStore](https://github.com/PDS-Lab/NStore)
 * Distributed Storage: [Ceph](https://github.com/emperorlu/ceph), [PeakFS](https://github.com/PDS-Lab/PeakFS-Experiments), 
@@ -89,6 +89,6 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 
 
-# 💻 Contact
+# 💬 Contact
 * Email: <kailu@hust.edu.cn>
 * Github: [emperorlu](https://github.com/emperorlu); [PDS-Lab](https://github.com/PDS-Lab)
