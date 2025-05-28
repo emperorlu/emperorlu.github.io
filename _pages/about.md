@@ -47,6 +47,8 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 *  Junjie Li, Nan Zhang, Xiaoyang Qu, **Kai Lu**, Guokuan Li, Jiguang Wan, Jianzong Wang. RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models (ACL 2025 Findings, CCF-A)
 
+*  Wei Tao, Xiaoyang Qu*, **Kai Lu***, Jiguang Wan, Guokuan Li, Jianzong Wang. MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs (ICME 2025, CCF-B)
+
 *  Bin Zhang, Jinggang Chen, Xiaoyang Qu, Guokuan Li, **Kai Lu**\*, Jiguang Wan, Jing Xiao, Jianzong Wang\*. [RUNA: Object-level Out-of-Distribution Detection via Regional Uncertainty Alignment of Multimodal Representations](https://ojs.aaai.org/index.php/AAAI/article/view/34841) (AAAI 2025, CCF A)
 
 ## 2024
