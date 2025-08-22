@@ -41,9 +41,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 ## 2025
 *  **Kai Lu**, Qiang Wei, Yier Lin, Pengyu Liu, Haipeng Wang, Jiguang Wan\*, Ting Yao, Huatao Wu, Daohui Wang. Q-Infer: Towards Efficient GPU-CPU Collaborative LLM Inference via Sparsity-Aware Dynamic Scheduling. ACM Transactions on Architecture and Code Optimization (TACO 2025, CCF-A)
 
-* Chen Ding, Sicen Li, **Kai Lu***, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing (USENIX  ATC 2025, CCF-A)
+* Chen Ding, Sicen Li, **Kai Lu***, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan, Zhihu Tan, Changsheng Xie. [DShuffle: DPU-Optimized Shuffle Framework for Large-scale Data Processing](https://www.usenix.org/conference/atc25/presentation/ding) (USENIX  ATC 2025, CCF-A)
 
-*  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores (SIGMOD 2025, CCF-A)
+*  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) (SIGMOD 2025, CCF-A)
 
 *  Wei Tao, Haocheng Lu, Xiaoyang Qu*, Bin Zhang, **Kai Lu**\*, Jiguang Wan, Jianzong Wang. MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts (ACL 2025 Main, CCF-A)
 
