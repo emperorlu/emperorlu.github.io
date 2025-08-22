@@ -45,9 +45,9 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 
 *  Chen Ding, **Kai Lu**\*, QuanYi Zhang, Zekun Ye, Ting Yao, Daohui Wang, Huatao Wu, Jiguang Wan. [DFlush: DPU-Offloaded Flush for Disaggregated LSM-based Key-Value Stores](https://dl.acm.org/doi/10.1145/3725284) (SIGMOD 2025, CCF-A)
 
-*  Wei Tao, Haocheng Lu, Xiaoyang Qu*, Bin Zhang, **Kai Lu**\*, Jiguang Wan, Jianzong Wang. MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts (ACL 2025 Main, CCF-A)
+*  Wei Tao, Haocheng Lu, Xiaoyang Qu*, Bin Zhang, **Kai Lu**\*, Jiguang Wan, Jianzong Wang. [MoQAE: Mixed-Precision Quantization for Long-Context LLM Inference via Mixture of Quantization-Aware Experts](https://aclanthology.org/2025.acl-long.531/) (ACL 2025 Main, CCF-A)
 
-*  Junjie Li, Nan Zhang, Xiaoyang Qu, **Kai Lu**, Guokuan Li, Jiguang Wan, Jianzong Wang. RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models (ACL 2025 Findings, CCF-A)
+*  Junjie Li, Nan Zhang, Xiaoyang Qu, **Kai Lu**, Guokuan Li, Jiguang Wan, Jianzong Wang. [RATE-Nav: Region-Aware Termination Enhancement for Zero-shot Object Navigation with Vision-Language Models](https://aclanthology.org/2025.findings-acl.341/) (ACL 2025 Findings, CCF-A)
 
 *  Wei Tao, Xiaoyang Qu\*, **Kai Lu**\*, Jiguang Wan, Guokuan Li, Jianzong Wang. MADLLM: Multivariate Anomaly Detection via Pre-trained LLMs (ICME 2025, CCF-B)
 
