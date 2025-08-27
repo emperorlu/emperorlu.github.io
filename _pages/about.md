@@ -23,7 +23,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 - 2018.09-2023.06, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
 - 2014.09-2018.06, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
 
-# 💻 Interests and Projects
+# 💻 Interests
 * Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
 * Key-value Store: [Rocksdb](https://github.com/emperorlu/rocksdb), [TiKV](https://github.com/emperorlu/tikv), [Leveldb](https://github.com/emperorlu/leveldb), [NStore](https://github.com/PDS-Lab/NStore)
 * Distributed Storage: [Ceph](https://github.com/emperorlu/ceph), [PeakFS](https://github.com/PDS-Lab/PeakFS-Experiments), 
@@ -31,7 +31,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
 * System for AI: [DI-store](https://github.com/emperorlu/DI-store), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [vLLM](https://github.com/emperorlu/vllm), [Q-Infer](https://github.com/PDS-Lab/Q-Infer)
 
-# 🏅 Honors and Awards
+# 🏅 Projects and Awards
 * 2022-now, Ranked #1 in the [IO500 10 Node Research](https://io500.org/list/sc24/ten)
 * 2024, the China Postdoctoral Science Foundation Funded Project
 * 2024, the Hubei Provincial Postdoctoral Innovative Talent Training Project A Grade
