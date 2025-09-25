@@ -38,6 +38,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * 2025, the Young Scientists Fund-Type C of the National Natural Science Foundation of China
 
 # 📝 Publications 
+(* denotes corresponding author)
 ## 2025
 *  **Kai Lu**, Qiang Wei, Yier Lin, Pengyu Liu, Haipeng Wang, Jiguang Wan\*, Ting Yao, Huatao Wu, Daohui Wang. [Q-Infer: Towards Efficient GPU-CPU Collaborative LLM Inference via Sparsity-Aware Dynamic Scheduling](https://dl.acm.org/doi/10.1145/3764589). ACM Transactions on Architecture and Code Optimization (TACO 2025, CCF-A) [Code](https://github.com/PDS-Lab/Q-Infer)
 
