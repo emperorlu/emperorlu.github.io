@@ -62,7 +62,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 ## 2024
 *  Yixiao Chen, Haomai Yang, **Kai Lu***, Wenlve Huang, Jibin Wang, Jiguang Wan, Jian Zhou, Fei Wu, Changsheng Xie. [PeakFS: An Ultra-high Performance Parallel File System via Computing-Network-Storage Co-optimization for HPC Applications](https://ieeexplore.ieee.org/document/10735121) (TPDS 2024, CCF-A) [Code](https://github.com/PDS-Lab/PeakFS-Experiments)
 
-*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004). ACM Transactions on Architecture and Code Optimization (TACO 2024, CCF-A) [Code](https://github.com/PDS-Lab/scythe)
+*  **Kai Lu**, Siqi Zhao, Haikang Shan, Qiang Wei, Guankuan Li, Jiguang Wan, Ting Yao, Huatao Wu, Daohui Wang. [Scythe: A Low-latency RDMA-enabled Distributed Transaction System for Disaggregated Memory](https://dl.acm.org/doi/10.1145/3666004) (TACO 2024, CCF-A) [Code](https://github.com/PDS-Lab/scythe)
 
 *  Zhonghua Wang, **Kai Lu***, Jiguang Wan, Hong Jiang, Zeyang Zhao, Peng Xu, Biliang Lai, Guokuan Li, and Changsheng Xie. [NStore: A High-Performance NUMA-Aware Key-Value Store for Hybrid Memory](https://www.computer.org/csdl/journal/tc/5555/01/10761975/223Ey6jTUwE) (TC 2024, CCF-A) [Code](https://github.com/PDS-Lab/NStore)
 
