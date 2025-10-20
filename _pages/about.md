@@ -38,6 +38,7 @@ I\'m Kai Lu, currently a postdoctoral fellow at Huazhong University of Science a
 * 2025, the Young Scientists Fund-Type C of the National Natural Science Foundation of China
 
 # 📝 Publications 
+(* denotes corresponding author)
 ## 2025
 
 * Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu***, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
