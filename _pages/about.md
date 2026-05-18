@@ -29,17 +29,7 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 - **Storage solutions tailored for LLM inference**, balancing bandwidth, latency, and resource utilization, including edge-cloud collaborative systems (EC-RAG, ICDE 2026), heterogeneous memory management (Q-Infer, TACO 2025), KV caching (ScoutAttention, DAC 2026), quantization and compression techniques (ACL 2026, TACO 2026, AAAI 2025, DATE 2025), and vector indexing.  
 
 If you are interested in academic collaboration, please feel free to contact me at [kailu@hust.edu.cn](kailu@hust.edu.cn).
-<!-- # 🎓 Educations
-- 2018.09-2023.06, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
-- 2014.09-2018.06, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
 
-# 💻 Interests
-* Disaggregated Memory: [Rcmp](https://github.com/PDS-Lab/Rcmp), [SepHash](https://github.com/minxinhao/SepHash), [Scythe](https://github.com/PDS-Lab/scythe)
-* Key-value Store: [Rocksdb](https://github.com/emperorlu/rocksdb), [TiKV](https://github.com/emperorlu/tikv), [Leveldb](https://github.com/emperorlu/leveldb), [NStore](https://github.com/PDS-Lab/NStore)
-* Distributed Storage: [Ceph](https://github.com/emperorlu/ceph), [PeakFS](https://github.com/PDS-Lab/PeakFS-Experiments), 
-* Non-volatile Memory(NVM): [Sprint-AEP](https://github.com/emperorlu/Sprint-AEP), [Geardb](https://github.com/emperorlu/GearDB), [WIPE](https://github.com/olemon111/WIPE)
-* AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
-* System for AI: [DI-store](https://github.com/emperorlu/DI-store), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [vLLM](https://github.com/emperorlu/vllm), [Q-Infer](https://github.com/PDS-Lab/Q-Infer) -->
 
 # 🏅 Projects and Awards
 - **2022-now**: #1 in [IO500 10 Node Research](https://io500.org/list/sc25/ten)  
