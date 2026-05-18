@@ -21,7 +21,7 @@ redirect_from:
 
 ## 🙋🏻‍♂️ About Me
 I am **Kai Lu**, a Postdoctoral Fellow at Huazhong University of Science and Technology (HUST), where I work in the [Parallel Data Storage Lab (PDSL)](https://github.com/PDS-Lab) under Prof. Jiguang Wan and Prof. Changsheng Xie. I obtained my Ph.D. in Computer Architecture from the Wuhan National Laboratory for Optoelectronics at HUST in 2023, following a B.E. in Computer Science and Technology from the same university. 
-My research focuses on distributed storage systems and AI , aiming to enable high-performance, scalable, and efficient distributed storage infrastructures for next-generation computing workloads.
+My research focuses on distributed storage systems and AI storage, aiming to enable high-performance, scalable, and efficient distributed storage infrastructures for next-generation computing workloads.
 
 If you are interested in academic collaboration, please feel free to contact me at kailu@hust.edu.cn.
 
@@ -43,7 +43,7 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 * System for AI: [DI-store](https://github.com/emperorlu/DI-store), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [vLLM](https://github.com/emperorlu/vllm), [Q-Infer](https://github.com/PDS-Lab/Q-Infer) -->
 
 # 🏅 Projects and Awards
-- **2022-now**: #1 in [IO500 10 Node Research](https://io500.org/list/sc24/ten)  
+- **2022-now**: #1 in [IO500 10 Node Research](https://io500.org/list/sc25/ten)  
 - **2024**: China Postdoctoral Science Foundation Funded Project  
 - **2024**: Hubei Provincial Postdoctoral Innovative Talent Training Project, A Grade  
 - **2025**: Young Scientists Fund-Type C, National Natural Science Foundation of China   
@@ -54,11 +54,13 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 (* denotes corresponding author)
 ## 2026
 
-* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu***, Jiguang Wan, Fei Wu, Tao Lu. CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits (ASPLOS 2026, CCF-A)
+* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu**\*, Jiguang Wan, Fei Wu, Tao Lu. CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits (ASPLOS 2026, CCF-A)
 
-*  **Kai Lu**, Yuanhui Zhou, Nengjie Wang， et al. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
+*  **Kai Lu**, Yuanhui Zhou, Nengjie Wang， Jiguang Wan, Bisheng Huang, Yang Zhang, Jinpeng Zhang, Yu Dong. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
 
-* Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu***, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
+* Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu**\*, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
+
+* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu**\*, Jiguang Wan, Fei Wu, Tao Lu. CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits (ASPLOS 2026, CCF-A)
 
 ## 2025
 
