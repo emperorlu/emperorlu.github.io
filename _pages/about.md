@@ -54,7 +54,7 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 (* denotes corresponding author)
 ## 2026
 
-* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu**\*, Jiguang Wan, Fei Wu, Tao Lu. CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits (ASPLOS 2026, CCF-A)
+* Qiuyang Zhang, Kai Zhou, Ding Tang, **Kai Lu**\*， Cheng Li, Zhenyu Yang, Peng Xu, Jiguang Wan. ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference. (DAC 2026, CCF-A)
 
 *  **Kai Lu**, Yuanhui Zhou, Nengjie Wang， Jiguang Wan, Bisheng Huang, Yang Zhang, Jinpeng Zhang, Yu Dong. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
 
