@@ -17,9 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I\'m Kai Lu, currently serving as an Assistant Researcher and Postdoctoral Fellow at Huazhong University of Science and Technology (HUST). My major is storage systems and techniques. I\'m in Parallel Data Storage Lab ([PDSL](https://github.com/PDS-Lab)) led by Prof. Jiguang Wan and Prof. Changsheng Xie. PDSL has long been devoted to the research of distributed storage systems, key-value storage and AI storage.
+<!-- I\'m Kai Lu, currently serving as an Assistant Researcher and Postdoctoral Fellow at Huazhong University of Science and Technology (HUST). My major is storage systems and techniques. I\'m in Parallel Data Storage Lab ([PDSL](https://github.com/PDS-Lab)) led by Prof. Jiguang Wan and Prof. Changsheng Xie. PDSL has long been devoted to the research of distributed storage systems, key-value storage and AI storage. -->
 
-# 🎓 Educations
+## 🙋🏻‍♂️ About Me
+I am **Kai Lu**, a Postdoctoral Fellow at Huazhong University of Science and Technology (HUST), where I work in the [Parallel Data Storage Lab (PDSL)](https://github.com/PDS-Lab) under Prof. Jiguang Wan and Prof. Changsheng Xie. I obtained my Ph.D. in Computer Architecture from the Wuhan National Laboratory for Optoelectronics at HUST in 2023, following a B.E. in Computer Science and Technology from the same university. 
+My research focuses on distributed storage systems and AI , aiming to enable high-performance, scalable, and efficient distributed storage infrastructures for next-generation computing workloads.
+
+If you are interested in academic collaboration, please feel free to contact me at kailu@hust.edu.cn.
+
+## 🔬 Research Interests
+My current research focuses on **disaggregated memory systems for LLM inference**. Specifically, my work includes:
+- **Disaggregated memory systems** with low-latency and high-throughput, encompassing architectural optimizations (RCMP, TACO 2024), indexing techniques (SepHash, VLDB 2024), transaction management (Scythe, TACO 2025), and DPU-accelerated operations (DFlush, SIGMOD 2025; DShuffle, USENIX ATC 2025; DComp, TACO 2024).  
+- **Storage solutions tailored for LLM inference**, balancing bandwidth, latency, and resource utilization, including edge-cloud collaborative systems (EC-RAG, ICDE 2026), heterogeneous memory management (Q-Infer, TACO 2025), KV caching (ScoutAttention, DAC 2026), quantization and compression techniques (ACL 2026, TACO 2026, AAAI 2025, DATE 2025), and vector indexing.  
+
+<!-- # 🎓 Educations
 - 2018.09-2023.06, Ph.D. degree in Computer Architecture, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, China.
 - 2014.09-2018.06, B.E. degree in Computer Science and Technology, Huazhong University of Science and Technology, China.
 
@@ -29,19 +40,27 @@ I\'m Kai Lu, currently serving as an Assistant Researcher and Postdoctoral Fello
 * Distributed Storage: [Ceph](https://github.com/emperorlu/ceph), [PeakFS](https://github.com/PDS-Lab/PeakFS-Experiments), 
 * Non-volatile Memory(NVM): [Sprint-AEP](https://github.com/emperorlu/Sprint-AEP), [Geardb](https://github.com/emperorlu/GearDB), [WIPE](https://github.com/olemon111/WIPE)
 * AI for Storage: [Learned-Rocksdb](https://github.com/emperorlu/Learned-Rocksdb), [Park](https://github.com/emperorlu/park), [Replica-Placement](https://github.com/emperorlu/Replica-Placement), [Auto-Tuning-Ceph](https://github.com/emperorlu/Auto-Tuning-Ceph)
-* System for AI: [DI-store](https://github.com/emperorlu/DI-store), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [vLLM](https://github.com/emperorlu/vllm), [Q-Infer](https://github.com/PDS-Lab/Q-Infer)
+* System for AI: [DI-store](https://github.com/emperorlu/DI-store), [DeepSpeed](https://github.com/emperorlu/DeepSpeed), [vLLM](https://github.com/emperorlu/vllm), [Q-Infer](https://github.com/PDS-Lab/Q-Infer) -->
 
 # 🏅 Projects and Awards
-* 2022-now, Ranked #1 in the [IO500 10 Node Research](https://io500.org/list/sc24/ten)
-* 2024, the China Postdoctoral Science Foundation Funded Project
-* 2024, the Hubei Provincial Postdoctoral Innovative Talent Training Project A Grade
-* 2025, the Young Scientists Fund-Type C of the National Natural Science Foundation of China
+- **2022-now**: #1 in [IO500 10 Node Research](https://io500.org/list/sc24/ten)  
+- **2024**: China Postdoctoral Science Foundation Funded Project  
+- **2024**: Hubei Provincial Postdoctoral Innovative Talent Training Project, A Grade  
+- **2025**: Young Scientists Fund-Type C, National Natural Science Foundation of China   
+- **2025**: Gold Award, Hubei Provincial Overseas Talent Innovation & Entrepreneurship Competition 
+- **2025**: Bronze Award, 3rd China Postdoctoral Innovation & Entrepreneurship Competition 
 
 # 📝 Publications 
 (* denotes corresponding author)
-## 2025
+## 2026
+
+* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu***, Jiguang Wan, Fei Wu, Tao Lu. CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits (ASPLOS 2026, CCF-A)
+
+*  **Kai Lu**, Yuanhui Zhou, Nengjie Wang， et al. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
 
 * Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu***, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
+
+## 2025
 
 *  **Kai Lu**, Qiang Wei, Yier Lin, Pengyu Liu, Haipeng Wang, Jiguang Wan\*, Ting Yao, Huatao Wu, Daohui Wang. [Q-Infer: Towards Efficient GPU-CPU Collaborative LLM Inference via Sparsity-Aware Dynamic Scheduling](https://dl.acm.org/doi/10.1145/3764589) (TACO 2025, CCF-A) [Code](https://github.com/PDS-Lab/Q-Infer)
 
