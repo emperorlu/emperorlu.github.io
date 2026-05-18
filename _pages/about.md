@@ -23,7 +23,7 @@ redirect_from:
 I am **Kai Lu**, a Postdoctoral Fellow at Huazhong University of Science and Technology (HUST), where I work in the [Parallel Data Storage Lab (PDSL)](https://github.com/PDS-Lab) under Prof. Jiguang Wan and Prof. Changsheng Xie. I obtained my Ph.D. in Computer Architecture from the Wuhan National Laboratory for Optoelectronics at HUST in 2023, following a B.E. in Computer Science and Technology from the same university. 
 My research focuses on distributed storage systems and AI storage, aiming to enable high-performance, scalable, and efficient distributed storage infrastructures for next-generation computing workloads.
 
-If you are interested in academic collaboration, please feel free to contact me at kailu@hust.edu.cn.
+If you are interested in academic collaboration, please feel free to contact me at [kailu@hust.edu.cn](kailu@hust.edu.cn).
 
 ## 🔬 Research Interests
 My current research focuses on **disaggregated memory systems for LLM inference**. Specifically, my work includes:
