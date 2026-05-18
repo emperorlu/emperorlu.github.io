@@ -36,8 +36,8 @@ If you are interested in academic collaboration, please feel free to contact me 
 - **2024**: China Postdoctoral Science Foundation Funded Project  
 - **2024**: Hubei Provincial Postdoctoral Innovative Talent Training Project, A Grade  
 - **2025**: Young Scientists Fund-Type C, National Natural Science Foundation of China   
-- **2025**: Gold Award, Hubei Provincial Overseas Talent Innovation & Entrepreneurship Competition 
-- **2025**: Bronze Award, 3rd China Postdoctoral Innovation & Entrepreneurship Competition 
+- **2025**: Gold Award, Hubei Provincial Overseas Talent Innovation and Entrepreneurship Competition 
+- **2025**: Bronze Award, 3rd China Postdoctoral Innovation and Entrepreneurship Competition 
 
 # 📝 Publications 
 (* denotes corresponding author)
