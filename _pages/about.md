@@ -43,9 +43,9 @@ If you are interested in academic collaboration, please feel free to contact me 
 (* denotes corresponding author)
 ## 2026
 
-* Qiuyang Zhang, Kai Zhou, Ding Tang, **Kai Lu**\*， Cheng Li, Zhenyu Yang, Peng Xu, Jiguang Wan. ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference. (DAC 2026, CCF-A)
+* Qiuyang Zhang, Kai Zhou, Ding Tang, **Kai Lu**\*, Cheng Li, Zhenyu Yang, Peng Xu, Jiguang Wan. ScoutAttention: Efficient KV Cache Offloading via Layer-Ahead CPU Pre-computation for LLM Inference. (DAC 2026, CCF-A)
 
-*  **Kai Lu**, Yuanhui Zhou, Nengjie Wang， Jiguang Wan, Bisheng Huang, Yang Zhang, Jinpeng Zhang, Yu Dong. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
+*  **Kai Lu**, Yuanhui Zhou, Nengjie Wang,Jiguang Wan, Bisheng Huang, Yang Zhang, Jinpeng Zhang, Yu Dong. HeapKV: Enabling Efficient Garbage Collection for KV-Separated LSM Stores on Modern SSDs. (TACO 2026, CCF-A) [Code](https://github.com/PDS-Lab/HeapKV)
 
 * Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu**\*, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
 
