@@ -29,13 +29,13 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 - **Disaggregated memory systems** with low-latency and high-throughput, encompassing architectural optimizations (RCMP, TACO 2024), indexing techniques (SepHash, VLDB 2024), transaction management (Scythe, TACO 2025), and DPU-accelerated operations (DFlush, SIGMOD 2025; DShuffle, USENIX ATC 2025; DComp, TACO 2024).  
 - **Storage solutions tailored for LLM inference**, balancing bandwidth, latency, and resource utilization, including edge-cloud collaborative systems (EC-RAG, ICDE 2026), heterogeneous memory management (Q-Infer, TACO 2025), KV caching (ScoutAttention, DAC 2026), quantization and compression techniques (ACL 2026, TACO 2026, AAAI 2025, DATE 2025), and vector indexing.  
 
-If you are interested in academic collaboration, please feel free to contact me at <kailu@hust.edu.cn>.
+*If you are interested in academic collaboration, please feel free to contact me at <kailu@hust.edu.cn>.*
 
 
 # 🔥 News
-- 2026.06: 🎉  Our paper HeapKV about garbage collection for KV-separated LSM stores has been accepted by TACO 2026 (CCF-A)!
+- 2026.06: 🎉  Our paper HeapKV about garbage collection for KV-separated LSM stores has been accepted by **ACM TACO 2026**!
 
-- 2026.03: 🎉 Our paper ScoutAttention about efficient KV cache offloading for LLM inference has been accepted by DAC 2026 (CCF-A)! 
+- 2026.03: 🎉 Our paper ScoutAttention about efficient KV cache offloading for LLM inference has been accepted by **DAC 2026**! 
 Congrats to Qiuyang!
 
 # 🏅 Projects and Awards
