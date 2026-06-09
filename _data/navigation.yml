@@ -9,8 +9,8 @@ main:
   - title: "Interests"
     url: "/#-research-interests"
     
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "News"
+    url: "/#-news"
 
   - title: "Projects and Awards"
     url: "/#-projects-and-awards"

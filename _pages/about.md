@@ -32,6 +32,12 @@ My current research focuses on **disaggregated memory systems for LLM inference*
 If you are interested in academic collaboration, please feel free to contact me at <kailu@hust.edu.cn>.
 
 
+# 🔥 News
+2026.03: 🎉  Our paper HeapKV about garbage collection for KV-separated LSM stores has been accepted by TACO 2026 (CCF-A)!
+
+2026.06: 🎉 Our paper ScoutAttention about efficient KV cache offloading for LLM inference has been accepted by DAC 2026 (CCF-A)! 
+Congrats to Qiuyang!
+
 # 🏅 Projects and Awards
 - **2022-now**: #1 in [IO500 10 Node Research](https://io500.org/list/sc25/ten)  
 - **2024**: China Postdoctoral Science Foundation Funded Project  
