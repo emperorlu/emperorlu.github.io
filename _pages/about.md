@@ -33,9 +33,9 @@ If you are interested in academic collaboration, please feel free to contact me 
 
 
 # 🔥 News
-2026.03: 🎉  Our paper HeapKV about garbage collection for KV-separated LSM stores has been accepted by TACO 2026 (CCF-A)!
+- 2026.06: 🎉  Our paper HeapKV about garbage collection for KV-separated LSM stores has been accepted by TACO 2026 (CCF-A)!
 
-2026.06: 🎉 Our paper ScoutAttention about efficient KV cache offloading for LLM inference has been accepted by DAC 2026 (CCF-A)! 
+- 2026.03: 🎉 Our paper ScoutAttention about efficient KV cache offloading for LLM inference has been accepted by DAC 2026 (CCF-A)! 
 Congrats to Qiuyang!
 
 # 🏅 Projects and Awards
