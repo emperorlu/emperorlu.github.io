@@ -62,7 +62,12 @@ Congratulations to Qiuyang!
 
 * Liang Wang, Kai Wang, Ranjun Jia, **Kai Lu**\*, Jiguang Wan, Hao Huo, Yulong Zhai, Zhiyuan Liang, Di Wang. EC-RAG: Towards Efficient Edge-Cloud Retrieval-Augmented Generation Systems (ICDE 2026, CCF-A)
 
-* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu**\*, Jiguang Wan, Fei Wu, Tao Lu. [CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits](https://dl.acm.org/doi/10.1145/3779212.3790137) (ASPLOS 2026, CCF-A) [Code](https://github.com/PDS-Lab/CEMU)
+* Qiuyang Zhang, Jiapin Wang, You Zhou\*, Peng Xu, **Kai Lu**\*, Jiguang Wan, Fei Wu, Tao Lu. [CEMU: Enabling Full-System Emulation of Computational Storage beyond Hardware Limits](https://dl.acm.org/doi/10.1145/3779212.3790137) (ASPLOS 2026, CCF-A) [Code](https://github.com/PDS-Lab/CEMU) 
+
+
+* Wei Tao, Xiaoyang Qu, Peiqiang Wang,Guokuan Li, Jiguang Wan, Kai Lu, Jianzong Wang. WindowQuant: Mixed-Precision KV Cache Quantization Based on Window-Level Similarity for VLMs Inference Optimization (TACO 2026, CCF-A)
+
+
 
 ## 2025
 
